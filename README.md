@@ -50,3 +50,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jebomin&show_icons=true&theme=gruvbox">
 </div>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
