@@ -46,7 +46,6 @@
 </div>
 <br>
 <br>
-<br>
 <div align=center>
   <h3>🌟my Github</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebomin&layout=compact">
