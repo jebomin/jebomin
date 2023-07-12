@@ -3,7 +3,7 @@
 </div>
 <div aligtn=center>
   <h3>👩‍💻My Baekjoon</h3>
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+  ![Bomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=b2d1h3&show_icons=true&theme=transparent)
 </div>
 <div align=center> 
   <h3>📚STACKS</h3>
