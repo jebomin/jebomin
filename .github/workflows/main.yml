@@ -22,3 +22,4 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+          git remote set-url origin https://YOURUSERNAME@github.com/USERNAME/REPOSITORY.git
