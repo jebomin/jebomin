@@ -44,3 +44,8 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white">
   <br>
 </div>
+
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebomin&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jebomin&show_icons=true">
+</div>
