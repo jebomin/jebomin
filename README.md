@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bomin's&nbsp;Github&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bomin&nbsp;Jae&fontSize=90" />
 </div>
 
 
@@ -48,6 +48,7 @@
 <br>
 <br>
 <div align=center>
+  <h3>🌟my Github</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebomin&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=jebomin&show_icons=true">
 </div>
