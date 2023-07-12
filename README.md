@@ -3,7 +3,7 @@
 </div>
 <div align=center>
   <h3>👩‍💻My Baekjoon</h3>
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={b2d1h3})](https://solved.ac/{b2d1h3})
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=b2d1h3)](https://solved.ac/b2d1h3/)
 </div>
 <div align=center> 
   <h3>📚STACKS</h3>
