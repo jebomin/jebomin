@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bomin's&nbsp;Github&fontSize=90" />
 </div>
 
-<div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
+  <h3>📚 STACKS</h3>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <br>
