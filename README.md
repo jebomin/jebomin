@@ -1,8 +1,10 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bomin&nbsp;Jae&fontSize=90" />
 </div>
+<div aligtn=center>
+  <h3>👩‍💻My Baekjoon</h3>
 
-
+</div>
 <div align=center> 
   <h3>📚STACKS</h3>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -51,3 +53,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebomin&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=jebomin&show_icons=true">
 </div>
+
