@@ -1,6 +1,9 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bomin&nbsp;Jae&fontSize=90" />
 </div>
+<br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=b2d1h3)](https://solved.ac/b2d1h3)
+<br>
 <div align=center> 
   <h3>📚STACKS</h3>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
