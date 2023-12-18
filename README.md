@@ -62,7 +62,6 @@
   <b>✅IDE 및 에디터<br></b>
   <img src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
   <img src="https://img.shields.io/badge/-codeblocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/-visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/-visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <br>
