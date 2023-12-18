@@ -25,8 +25,15 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQLWorkbench-4479A1?style=for-the-badge&logo=MySQLWorkbench&logoColor=white"> 
   <br>
-  <b>✅챗봇 및 자연어 처리<br></b>
+  <b>✅챗봇<br></b>
   <img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=Rasa&logoColor=white">
+  <img src="https://img.shields.io/badge/Stramlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+  <br>
+  <b>✅머신러닝 및 데이터과학<br></b>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/sentence_transformers-04ACE6?style=for-the-badge&logo=sentence_transfromers&logoColor=white">
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
   <br>
   <b>✅협업<br></b>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -40,12 +47,14 @@
   <br>
   <b>✅문서<br></b>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/MycrosoftPowerPoint-B7472A?style=for-the-badge&logo=MycrosoftPowerPoint&logoColor=white">
+  <img src="https://img.shields.io/badge/MycrosoftWord-2B579A?style=for-the-badge&logo=MycrosoftWord&logoColor=white">
   <br>
 </div>
 <br>
 <br>
 <div align=center>
-  <h2>🌟my Github</h2>
+  <h2>🌟My Github</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebomin&layout=compact&theme=gruvbox">
   <img src="https://github-readme-stats.vercel.app/api?username=jebomin&show_icons=true&theme=gruvbox">
 </div>
