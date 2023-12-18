@@ -39,10 +39,10 @@
   <br>
   <b>✅머신러닝 및 데이터과학<br></b>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white">
   <img src="https://img.shields.io/badge/sentence_transformers-04ACE6?style=for-the-badge&logo=sentence_transfromers&logoColor=white">
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white">
   <br>
   <br>
   <b>✅협업<br></b>
