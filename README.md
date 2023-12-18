@@ -55,12 +55,13 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/miricanvas-2E77BC?style=for-the-badge&logo=iricanvas&logoColor=white">
   <br>
   <br>
   <b>✅문서<br></b>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  <img src="https://img.shields.io/badge/MycrosoftPowerPoint-B7472A?style=for-the-badge&logo=MycrosoftPowerPoint&logoColor=white">
-  <img src="https://img.shields.io/badge/MycrosoftWord-2B579A?style=for-the-badge&logo=MycrosoftWord&logoColor=white">
+  <img src="https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
+  <img src="https://img.shields.io/badge/microsoftword-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white">
   <br>
 </div>
 <br>
