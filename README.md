@@ -49,13 +49,15 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+  <img src="https://img.shields.io/badge/canvas-E72429?style=for-the-badge&logo=canvas&logoColor=white">
   <br>
   <br>
   <b>✅디자인<br></b>
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/miricanvas-2E77BC?style=for-the-badge&logo=iricanvas&logoColor=white">
+  <img src="https://img.shields.io/badge/miricanvas-2E77BC?style=for-the-badge&logo=miricanvas&logoColor=white">
+  <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
   <br>
   <br>
   <b>✅IDE 및 에디터<br></b>
