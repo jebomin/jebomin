@@ -74,6 +74,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
   <img src="https://img.shields.io/badge/microsoftword-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white">
+  <img src="https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
   <br>
 </div>
 <br>
