@@ -23,7 +23,6 @@
   <br>
   <br>
   <b>✅모바일 개발<br></b>
-  <img src="https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/-android-34A853?style=for-the-badge&logo=android&logoColor=white">
   <br>
   <br>
