@@ -6,7 +6,7 @@
   <b>✅프로그래밍언어<br></b>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <br>
   <br>
   <b>✅웹 개발<br></b>
@@ -27,6 +27,10 @@
   <img src="https://img.shields.io/badge/-android-34A853?style=for-the-badge&logo=android&logoColor=white">
   <br>
   <br>
+  <b>✅로봇<br></b>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white">
+  <br>
+  <br>
   <b>✅데이터 분석<br></b>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -45,6 +49,7 @@
   <br>
   <b>✅개발환경<br></b>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Window-007396?style=for-the-badge&logo=Window&logoColor=white">
   <br>
   <br>
   <b>✅협업<br></b>
@@ -75,6 +80,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
+  <br>
   <br>
   <b>✅문서<br></b>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
