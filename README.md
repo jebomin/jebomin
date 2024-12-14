@@ -27,8 +27,10 @@
   <img src="https://img.shields.io/badge/-android-34A853?style=for-the-badge&logo=android&logoColor=white">
   <br>
   <br>
-  <b>✅데이터 베이스<br></b>
+  <b>✅데이터 분석<br></b>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white">
   <br>
   <br>
   <b>✅챗봇<br></b>
@@ -36,13 +38,13 @@
   <img src="https://img.shields.io/badge/Stramlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
   <br>
   <br>
-  <b>✅머신러닝 및 데이터과학<br></b>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
-  <br>
+  <b>✅AI<br></b>
   <img src="https://img.shields.io/badge/sentence_transformers-04ACE6?style=for-the-badge&logo=sentence_transfromers&logoColor=white">
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <br>
+  <br>
+  <b>✅개발환경<br></b>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <br>
   <br>
   <b>✅협업<br></b>
@@ -62,14 +64,17 @@
   <br>
   <br>
   <b>✅IDE 및 에디터<br></b>
-  <img src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
-  <img src="https://img.shields.io/badge/-codeblocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white">
-  <img src="https://img.shields.io/badge/-intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
+  <img src="https://img.shields.io/badge/codeblocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white">
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/MySQLWorkbench-4479A1?style=for-the-badge&logo=MySQLWorkbench&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/-visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">  
+  <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">  
   <br>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Colab&logoColor=white">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
   <br>
   <b>✅문서<br></b>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
