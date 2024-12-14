@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">  
   <br>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Colab&logoColor=white">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
   <br>
   <b>✅문서<br></b>
